@@ -13,9 +13,9 @@ Inacure is an easy-to-use Android application that provide curated information a
 
 This project consist of three separate technologies combined into a single android application.
 
-- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://example.com)
-- ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://example.com)
-- ### [&nbsp;&nbsp;Cloud Computing &rarr;](https://example.com)
+- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/rifqoi/Inacure-Machine-Learning)
+- ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://github.com/yashagozwan/inacure-app)
+- ### [&nbsp;&nbsp;Cloud Computing &rarr;](https://github.com/naufal360/inacure-api)
 
 ## Members
 
