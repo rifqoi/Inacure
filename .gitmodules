@@ -1,0 +1,9 @@
+[submodule "Inacure-Machine-Learning"]
+	path = Inacure-Machine-Learning
+	url = https://github.com/rifqoi/Inacure-Machine-Learning
+[submodule "inacure-app"]
+	path = inacure-app
+	url = https://github.com/yashagozwan/inacure-app
+[submodule "inacure-api"]
+	path = inacure-api
+	url = https://github.com/naufal360/inacure-api
