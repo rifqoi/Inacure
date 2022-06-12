@@ -7,6 +7,9 @@
 
 ## About The Project
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71868613/173239047-12292f83-eab9-4f45-becd-0bd6e9cb3989.gif"><br>
+</p>
 Inacure is an easy-to-use Android application that provide curated information about herbal plant, leaves, and medicine around Indonesia. The application can also classify plants based on their leaves using Convolutional Neural Network.
 
 ## Documentation
