@@ -1,4 +1,4 @@
-# C22-PS261 - Capstone Project (Inacure)
+# C22-PS261 - Bangkit Capstone Project (Inacure)
 
 <p align="center">
   <img width="35%" src="https://user-images.githubusercontent.com/71868613/173235780-998cbb78-7dc8-4c42-9213-2cedffe42d84.png" alt="Inacure - Indonesia's Nature for Cure"><br>
